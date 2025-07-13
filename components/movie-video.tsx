@@ -1,4 +1,4 @@
-import { API_URL } from "../app/(home)/page";
+import { API_URL } from "../app/constants";
 import style from "../style/movie-video.module.css";
 async function getVideos(id: string) {
   const response = await fetch(`${API_URL}/${id}/videos`, {

@@ -1,0 +1,21 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/(movies)/movies/[id]/page",{
+
+/***/ "(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2Feugenius1st%2Feugene-it%2Fnext-practice%2Fstyle%2Fmovie-info.module.css%22%2C%22ids%22%3A%5B%5D%7D&modules=%7B%22request%22%3A%22%2FUsers%2Feugenius1st%2Feugene-it%2Fnext-practice%2Fstyle%2Fmovie-video.module.css%22%2C%22ids%22%3A%5B%5D%7D&server=false!":
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2Feugenius1st%2Feugene-it%2Fnext-practice%2Fstyle%2Fmovie-info.module.css%22%2C%22ids%22%3A%5B%5D%7D&modules=%7B%22request%22%3A%22%2FUsers%2Feugenius1st%2Feugene-it%2Fnext-practice%2Fstyle%2Fmovie-video.module.css%22%2C%22ids%22%3A%5B%5D%7D&server=false! ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
+
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__webpack_require__, /*! ./style/movie-info.module.css */ \"(app-pages-browser)/./style/movie-info.module.css\", 23));\n;\nPromise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__webpack_require__, /*! ./style/movie-video.module.css */ \"(app-pages-browser)/./style/movie-video.module.css\", 23));\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvYnVpbGQvd2VicGFjay9sb2FkZXJzL25leHQtZmxpZ2h0LWNsaWVudC1lbnRyeS1sb2FkZXIuanM/bW9kdWxlcz0lN0IlMjJyZXF1ZXN0JTIyJTNBJTIyJTJGVXNlcnMlMkZldWdlbml1czFzdCUyRmV1Z2VuZS1pdCUyRm5leHQtcHJhY3RpY2UlMkZzdHlsZSUyRm1vdmllLWluZm8ubW9kdWxlLmNzcyUyMiUyQyUyMmlkcyUyMiUzQSU1QiU1RCU3RCZtb2R1bGVzPSU3QiUyMnJlcXVlc3QlMjIlM0ElMjIlMkZVc2VycyUyRmV1Z2VuaXVzMXN0JTJGZXVnZW5lLWl0JTJGbmV4dC1wcmFjdGljZSUyRnN0eWxlJTJGbW92aWUtdmlkZW8ubW9kdWxlLmNzcyUyMiUyQyUyMmlkcyUyMiUzQSU1QiU1RCU3RCZzZXJ2ZXI9ZmFsc2UhIiwibWFwcGluZ3MiOiJBQUFBLDBMQUEyRztBQUMzRztBQUNBLDRMQUE0RyIsInNvdXJjZXMiOlsiIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiL1VzZXJzL2V1Z2VuaXVzMXN0L2V1Z2VuZS1pdC9uZXh0LXByYWN0aWNlL3N0eWxlL21vdmllLWluZm8ubW9kdWxlLmNzc1wiKTtcbjtcbmltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiL1VzZXJzL2V1Z2VuaXVzMXN0L2V1Z2VuZS1pdC9uZXh0LXByYWN0aWNlL3N0eWxlL21vdmllLXZpZGVvLm1vZHVsZS5jc3NcIik7XG4iXSwibmFtZXMiOltdLCJpZ25vcmVMaXN0IjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2Feugenius1st%2Feugene-it%2Fnext-practice%2Fstyle%2Fmovie-info.module.css%22%2C%22ids%22%3A%5B%5D%7D&modules=%7B%22request%22%3A%22%2FUsers%2Feugenius1st%2Feugene-it%2Fnext-practice%2Fstyle%2Fmovie-video.module.css%22%2C%22ids%22%3A%5B%5D%7D&server=false!\n"));
+
+/***/ })
+
+});
