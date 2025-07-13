@@ -15,7 +15,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-export default function MovieId({ params: { id } }) {
+export default function MovieId({ params }: Props) {
+  const { id } = params;
+
   // const { id } = await params;
 
   return (
