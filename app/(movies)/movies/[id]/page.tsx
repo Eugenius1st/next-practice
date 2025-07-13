@@ -8,18 +8,21 @@ import type { Metadata } from "next";
 export async function generateMetadata({
   params,
 }: {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 }): Promise<Metadata> {
-  const movie = await getMovie(params.id);
+  const { id } = await params;
+  const movie = await getMovie(id);
   return {
     title: movie.title,
   };
 }
 
-export default function MovieId({ params }: { params: { id: string } }) {
-  const { id } = params;
-
-  // const { id } = await params;
+export default async function MovieIdPage({
+  params,
+}: {
+  params: Promise<{ id: string }>;
+}) {
+  const { id } = await params;
 
   return (
     <div>
