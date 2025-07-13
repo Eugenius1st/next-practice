@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
@@ -26,6 +28,6 @@
   "devDependencies": {
     "@types/node": "24.0.13",
     "@types/react": "19.1.8",
-    "typescript": "5.8.3"
+    "typescript": "^5.8.3"
   }
 }
