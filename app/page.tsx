@@ -1,6 +1,6 @@
 import Movie from "../components/movie";
 import Link from "next/link";
-import style from "../../style/home.module.css";
+import style from "../style/home.module.css";
 import { API_URL } from "./constants";
 export const metadata = {
   title: "Home",
